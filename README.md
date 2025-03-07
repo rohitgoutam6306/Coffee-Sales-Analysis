@@ -57,7 +57,7 @@ The total sales revenue for each month is January-81.6K, Fabruary-76.1K, March-9
 overall the sales are increasing month by month.
 #### How do sales vary across different store locations?
 All the store locations are performing similar in terms of footfall and revenue.
-#### what is the average price/order per person
+#### What is the average price/order per person?
 The average order per person is 1.44 and the average bill or price per person is $4.69.
 #### Which products are the bestselling in terms of quantity and revenue?
 The best salling product is Brewed Chai Tea in terms of Qunatity and Barista Espresso in terms of revneue.
