@@ -46,7 +46,7 @@ Average Bill/Person  – Total revenue divided by total transactions
 Average Order/Person  – Total QTY divided by total transactions
 
 
-## Expected Insights
+## Insights
 
 #### How do sales vary by day of the week and hour of the day?
 Sales are lower on Saturdays and Sundays, but higher on Mondays, Thursdays, and Fridays.
@@ -64,6 +64,19 @@ The best salling product is Brewed Chai Tea in terms of Qunatity and Barista Esp
 #### How do sales vary by product category and type?
 Tea, Coffee, Bakery, Drinking Chocolate, Coffee Beans are the product category which are genearting 95% revneue,
 Barista espresso, Brewed Chai tea, Hot chocolate, Gourmet brewed coffee, Brewed black tea are the top 5 product by revneue.
+### Pareto analysis
+##### Found that the 69% of Products aur generating 95% of the revenue and the next 31% of the Products are generating only 5% of the revenue.
+#### Recommended Decisions
+##### 1. Optimize Inventory & Focus on High-Performing Products
+Prioritize stocking and promoting the 69% of products that generate 95% of revenue.
+Reduce or discontinue the bottom 31% of products that contribute only 5% of revenue unless they have strategic importance (e.g., customer retention, brand image).
+##### 2. Price & Promotion Strategy for Low-Performing Products
+Identify whether the underperforming 31% of products have potential for improvement through discounts, bundling, or repositioning.
+If they are essential for certain customers (e.g., niche demand), consider targeted marketing or loyalty programs instead of mass promotion.
+##### 3. Expand the Best Sellers & Cross-Sell
+Introduce variations, combos, or premium versions of the top 69% of products to maximize revenue.
+Recommend best-selling products with underperforming ones to increase basket size and drive sales for low-performing items.
+
 
 ## How to Use the Dashboard
 
